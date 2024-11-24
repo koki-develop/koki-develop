@@ -27,9 +27,3 @@
 [<img src="./public/images/skill/aws.svg" width="40" height="40" />](https://aws.amazon.com/)
 [<img src="./public/images/skill/googlecloud.svg" width="40" height="40" />](https://console.cloud.google.com/)
 [<img src="./public/images/skill/firebase.svg" width="40" height="40" />](https://firebase.google.com/)
-[<img src="./public/images/skill/githubactions.svg" width="40" height="40" />](https://github.co.jp/features/actions)
-[<img src="./public/images/skill/circleci.svg" width="40" height="40" />](https://circleci.com/)
-
-## Contact
-
-[kou.pg.0131@gmail.com](mailto:kou.pg.0131@gmail.com)
