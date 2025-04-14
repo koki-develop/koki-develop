@@ -1,4 +1,5 @@
 name: Update Profile Summary Card
+run-name: Update Profile Summary Card (${{ github.event_name }})
 
 permissions: {}
 
