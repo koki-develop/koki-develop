@@ -2,8 +2,8 @@
 [![Qiita Contributions](https://badgen.org/img/qiita/koki_develop/contributions?style=flat-square)](https://qiita.com/koki_develop)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koki-develop&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koki-develop&theme=github" alt="GitHub Profile Summary">
+  <source media="(prefers-color-scheme: dark)" srcset="./public/images/profile-summary-card_github_dark.svg">
+  <img src="./public/images/profile-summary-card_github.svg" alt="GitHub Profile Summary">
 </picture>
 
 ## Socials
