@@ -1,11 +1,3 @@
-[![Zenn Likes](https://badgen.org/img/zenn/kou_pg_0131/likes?style=flat-square)](https://zenn.dev/kou_pg_0131)
-[![Qiita Contributions](https://badgen.org/img/qiita/koki_develop/contributions?style=flat-square)](https://qiita.com/koki_develop)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./public/images/profile-summary-card_github_dark.svg">
-  <img src="./public/images/profile-summary-card_github.svg" alt="GitHub Profile Summary">
-</picture>
-
 ## Socials
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="./public/images/social/github-dark.svg"><img src="./public/images/social/github.svg" width="40" height="40" alt="GitHub"></picture>](https://github.com/koki-develop)
