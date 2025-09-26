@@ -7,16 +7,7 @@
 
 ## Skills
 
-[<img src="./public/images/skill/go.svg" width="40" height="40" />](https://golang.org/)
-[<img src="./public/images/skill/typescript.svg" width="40" height="40" />](https://www.typescriptlang.org/)
-[<img src="./public/images/skill/javascript.svg" width="40" height="40" />](https://developer.mozilla.org/docs/Web/JavaScript)
-[<img src="./public/images/skill/ruby.svg" width="40" height="40" />](https://www.ruby-lang.org)
-[<img src="./public/images/skill/react.svg" width="40" height="40" />](https://reactjs.org/)
-[<img src="./public/images/skill/nextjs.svg" width="40" height="40" />](https://nextjs.org/)
-[<img src="./public/images/skill/terraform.svg" width="40" height="40" />](https://www.terraform.io/)
-[<img src="./public/images/skill/aws.svg" width="40" height="40" />](https://aws.amazon.com/)
-[<img src="./public/images/skill/googlecloud.svg" width="40" height="40" />](https://console.cloud.google.com/)
-[<img src="./public/images/skill/firebase.svg" width="40" height="40" />](https://firebase.google.com/)
+![Skills](https://skillicons.dev/icons?i=go,ts,js,ruby,react,nextjs,terraform,aws,googlecloud,firebase)
 
 ## Certifications
 
